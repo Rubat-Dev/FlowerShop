@@ -362,7 +362,6 @@ header .fa-bars{
     border-radius: .5rem;
     margin: .7rem 0;
     width: 100%;
-
 }
 .contact .row form .box:focus{
     border-color: var(--pink);
