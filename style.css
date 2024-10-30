@@ -12,6 +12,9 @@
     text-transform: capitalize;
     transition: .2s linear;
 }
+body{
+    overflow-x: hidden;
+}
 html{
     font-size: 62.5%;
     scroll-behavior: smooth;
